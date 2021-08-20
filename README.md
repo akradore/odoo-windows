@@ -22,7 +22,7 @@ To run Odoo on windows you just follow the below steps for all versions of Odoo 
 
 <b>Step 1 : Install Python</b>
 
-    - Download Python for windows from <a href="https://www.python.org/downloads/windows/"> Python for Windows</a>
+- Download Python for windows from <a href="https://www.python.org/downloads/windows/"> Python for Windows</a>
         - Click Option Add Python to Path
 
 
