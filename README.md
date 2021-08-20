@@ -62,7 +62,7 @@ After Installing Python more documentation [Python 3.6, 3.7, or 3.8](https://www
 In a shell / command promt , navigate to the directory with downloaded `requirements.txt` and run thefollowing command:
 
    ```sh
-   pip3 install -r path/requirements.txt
+   pip3 install -r (`path`)/requirements.txt
    ```
 
 
