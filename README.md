@@ -19,17 +19,27 @@ Getting started with Odoo on Windows without installation
 
 This guide covers the steps necessary for configuring and running Multiple Odoo Versions for development using Git source
 To run Odoo on windows you just follow the below steps for all versions of Odoo .
+
 <b>Step 1 : Install Python</b>
+
     - Download Python for windows from <a href="https://www.python.org/downloads/windows/"> Python for Windows</a>
-        - Click Option Add Python to Path 
+        - Click Option Add Python to Path
+
+
         - Select Customize Installation
+
+
         - Select All Optional Features 
-        - Advanced Option : Install foa all Users 
+
+
+        - Advanced Option : Install foa all Users
+
+ 
         - Change Installation Location to <b>C:\Python\Python37</b>
 
-Step 2 : Install Postgres 
-sudo adduser --system --quiet --shell=/bin/bash --home=/home/odoo --gecos 'ODOO' --group odoo
 
+
+Step 2 : Install Postgres 
 
 Step 3 : 
 
