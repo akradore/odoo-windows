@@ -17,13 +17,22 @@ a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you inst
 Getting started with Odoo on Windows without installation
 ----------------------------------------------------------
 
+### Requirements
+
+- [Git](https://www.odoo.com/documentation/14.0/contributing/documentation.html#install-git)
+- [Python 3.6, 3.7, or 3.8](https://www.odoo.com/documentation/14.0/contributing/documentation.html#python)
+- Python dependencies listed in the file [`requirements.txt`](https://github.com/akradore/odoo-windows/tree/odoo12c/requirements.txt).
+- [Make](https://www.odoo.com/documentation/14.0/contributing/documentation.html#make)
+- A local copy of the [odoo/odoo repository in 14.0](https://github.com/odoo/odoo/tree/14.0) (Optional)
+
+
 This guide covers the steps necessary for configuring and running Multiple Odoo Versions for development using Git source
 To run Odoo on windows you just follow the below steps for all versions of Odoo .
 
 <b>Step 1 : Install Python</b>
 
 - Download Python for windows from <a href="https://www.python.org/downloads/windows/"> Python for Windows</a>
-- Click Option Add Python to Path]
+- Click Option Add Python to Path
 
 - Select Customize Installation
 
@@ -35,8 +44,27 @@ To run Odoo on windows you just follow the below steps for all versions of Odoo 
 
 
 Step 2 : Install Postgres 
+- Download Postgres for windows from <a href="https://www.enterprisedb.com/downloads/postgres-postgresql-downloads"> Postgres for Windows</a>
+- Select Options for Additional Features 
 
-Step 3 : 
+- Select All Optional Features (PGAdmin....)
+- Set Password for postgres User  
+
+- Set port if Postgres Default port is selected(Or Use default )
+
+- Install Postgres   
+
+
+
+Step 3 : Install Python Dependences 
+After Installing Python more documentation [Python 3.6, 3.7, or 3.8](https://www.odoo.com/documentation/14.0/contributing/documentation.html#python)
+- Install odoo Python dependencies listed in the file [`requirements.txt`](https://github.com/akradore/odoo-windows/tree/odoo12c/requirements.txt).
+In a shell / command promt , navigate to the directory with downloaded `requirements.txt` and run thefollowing command:
+
+   ```sh
+   pip3 install -r path/requirements.txt
+   ```
+
 
 Step 4 : 
 
