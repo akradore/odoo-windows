@@ -1,0 +1,105 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * im_livechat_mail_bot
+# 
+# Translators:
+# Martin Trigaux, 2019
+# Abu Zafar <azmikbal@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server saas~11.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-02 10:05+0000\n"
+"PO-Revision-Date: 2018-08-24 09:20+0000\n"
+"Last-Translator: Abu Zafar <azmikbal@gmail.com>, 2020\n"
+"Language-Team: Bengali (https://www.transifex.com/odoo/teams/41243/bn/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. module: im_livechat_mail_bot
+#: selection:res.users,odoobot_state:0
+msgid "Disabled"
+msgstr "নিষ্ক্রিয়"
+
+#. module: im_livechat_mail_bot
+#: code:addons/im_livechat_mail_bot/models/mail_bot.py:18
+#, python-format
+msgid ""
+"Good, you can customize canned responses in the live chat "
+"application.<br/><br/><b>It's the end of this overview</b>, enjoy "
+"discovering Odoo!"
+msgstr ""
+"ভাল, আপনি লাইভ চ্যাট অ্যাপ্লিকেশনটিতে ক্যানড প্রতিক্রিয়াগুলি কাস্টমাইজ করতে"
+" পারেন <br/><br/><b>এই পর্যালোচনাটির শেষে</b>, ওদু আবিষ্কার করে উপভোগ করুন!"
+
+#. module: im_livechat_mail_bot
+#: selection:res.users,odoobot_state:0
+msgid "Idle"
+msgstr ""
+
+#. module: im_livechat_mail_bot
+#: model:ir.model,name:im_livechat_mail_bot.model_mail_bot
+msgid "Mail Bot"
+msgstr "মেইল বট"
+
+#. module: im_livechat_mail_bot
+#: selection:res.users,odoobot_state:0
+msgid "Not initialized"
+msgstr ""
+
+#. module: im_livechat_mail_bot
+#: code:addons/im_livechat_mail_bot/models/mail_bot.py:21
+#, python-format
+msgid ""
+"Not sure wat you are doing. Please press : and wait for the propositions. "
+"Select one of them and press enter."
+msgstr ""
+"আপনি কি করছেন তা নিশ্চিত নয়। দয়া করে  প্রেস করুন : এবং প্রস্তাবগুলির জন্য "
+"অপেক্ষা করুন। এর মধ্যে একটি নির্বাচন করুন এবং এন্টার  প্রেস করুন ।"
+
+#. module: im_livechat_mail_bot
+#: model:ir.model.fields,field_description:im_livechat_mail_bot.field_res_users__odoobot_state
+msgid "OdooBot Status"
+msgstr "ওড়ো বট অবস্থান"
+
+#. module: im_livechat_mail_bot
+#: selection:res.users,odoobot_state:0
+msgid "Onboarding attachement"
+msgstr ""
+
+#. module: im_livechat_mail_bot
+#: selection:res.users,odoobot_state:0
+msgid "Onboarding canned"
+msgstr "অনবোর্ডিং ক্যানড "
+
+#. module: im_livechat_mail_bot
+#: selection:res.users,odoobot_state:0
+msgid "Onboarding command"
+msgstr ""
+
+#. module: im_livechat_mail_bot
+#: selection:res.users,odoobot_state:0
+msgid "Onboarding emoji"
+msgstr ""
+
+#. module: im_livechat_mail_bot
+#: selection:res.users,odoobot_state:0
+msgid "Onboarding ping"
+msgstr ""
+
+#. module: im_livechat_mail_bot
+#: code:addons/im_livechat_mail_bot/models/mail_bot.py:15
+#, python-format
+msgid "That's me! 🎉<br/>Try to type \":\" to use canned responses."
+msgstr ""
+"ওটা আমি!🎉<br/>ক্যানড প্রতিক্রিয়াগুলি ব্যবহার করতে \":\" টাইপ করার চেষ্টা "
+"করুন।"
+
+#. module: im_livechat_mail_bot
+#: model:ir.model,name:im_livechat_mail_bot.model_res_users
+msgid "Users"
+msgstr "ব্যবহারকারীগণ"
