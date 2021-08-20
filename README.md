@@ -23,20 +23,15 @@ To run Odoo on windows you just follow the below steps for all versions of Odoo 
 <b>Step 1 : Install Python</b>
 
 - Download Python for windows from <a href="https://www.python.org/downloads/windows/"> Python for Windows</a>
-        - Click Option Add Python to Path
+- Click Option Add Python to Path]
 
+- Select Customize Installation
 
-        - Select Customize Installation
+- Select All Optional Features 
 
-
-        - Select All Optional Features 
-
-
-        - Advanced Option : Install foa all Users
-
+- Advanced Option : Install foa all Users
  
-        - Change Installation Location to <b>C:\Python\Python37</b>
-
+- Change Installation Location to <b>C:\Python\Python37</b>
 
 
 Step 2 : Install Postgres 
