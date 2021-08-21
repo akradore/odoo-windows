@@ -28,6 +28,10 @@ Getting started with Odoo on Windows without installation
 
 This guide covers the steps necessary for configuring and running Multiple Odoo Versions for development using Git source
 To run Odoo on windows you just follow the below steps for all versions of Odoo .
+![](https://github.com/akradore/odoo-windows/blob/main/odoo_data/odoo_windows.gif)
+
+Instructions & Tutorial  [Running Odoo on Windows Machine without Installation](https://youtu.be/giakjsJk8xI)
+
 
 <b>Step 1 : Install Python</b>
 
@@ -108,8 +112,22 @@ In order to understand `odoo-bin` options read the following options <a href="ht
 
    ``` 
     Since the config file is defined all odoo-bin options are also defined in the the config file however in your command you need to define the config file path with a `-c` odoo-bin option. 
-- In My video Im using Visual Studio
-Step 5 : 
+    
+- To tail the Log-file as Odoo Runs Use the following command in `powershell` 
+    ```sh   
+     Get-Content C:\Users\Laptop\Desktop\odoo_12c\odoo12c\server\odoo.log -Wait
+   ```
+    
+- <b>In My video Im using Visual Studio as it great IDE it consumes less resource</b>
+
+<b>Step 5 : Check out the next Video on Odoo Debug Using Visual Studio</b>
+
+<iframe width="560" height="315"
+src="https://youtu.be/giakjsJk8xI" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe> 
+
 
 
 
