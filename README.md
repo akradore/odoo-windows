@@ -93,7 +93,7 @@ In a shell / command promt , navigate to the directory with downloaded `requirem
 
 <b>Step 4 : Running Odoo : Using Terminal/Powershell </b>
 
-In order to understand `odoo-bin` options read the following options <a href="https://www.odoo.com/documentation/14.0/develSince there is no config file the following options are critical in Options</a> 
+In order to understand `odoo-bin` options read the following options <a href="https://www.odoo.com/documentation/14.0/developer/misc/other/cmdline.html">Odoo-bin Options</a> 
 
 - In My video Im using Visual Studio to run odoo without installation, this can be in 2 possible ways:
 
