@@ -1,0 +1,410 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * base_setup
+# 
+# Translators:
+# Akram Alfusayal <akram_ma@hotmail.com>, 2018
+# hoxhe Aits <hoxhe0@gmail.com>, 2018
+# Osoul <baruni@osoul.ly>, 2018
+# Shaima Safar <shaima.safar@open-inside.com>, 2018
+# Ali Alrehawi <alrehawi@hotmail.com>, 2018
+# Mustafa Rawi <mustafa@cubexco.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server saas~11.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-21 13:17+0000\n"
+"PO-Revision-Date: 2018-08-24 09:16+0000\n"
+"Last-Translator: Mustafa Rawi <mustafa@cubexco.com>, 2019\n"
+"Language-Team: Arabic (https://www.transifex.com/odoo/teams/41243/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid ""
+"<i class=\"fa fa-lg fa-building-o\"/>\n"
+"                                            <span class=\"text-muted\">\n"
+"                                                the creation of documents between your companies\n"
+"                                            </span>"
+msgstr ""
+"<i class=\"fa fa-lg fa-building-o\"/>\n"
+"                                            <span class=\"text-muted\">\n"
+"                                                إنشاء الملفات ما بين مؤسساتك\n"
+"                                            </span>"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid ""
+"<span class=\"o_form_label\">Document Template</span>\n"
+"                                        <span class=\"fa fa-lg fa-building-o\" title=\"Values set here are company-specific.\" aria-label=\"Values set here are company-specific.\" groups=\"base.group_multi_company\" role=\"img\"/>"
+msgstr ""
+"<span class=\"o_form_label\">قالب المستند</span>\n"
+"                                        <span class=\"fa fa-lg fa-building-o\" title=\"Values set here are company-specific.\" aria-label=\"Values set here are company-specific.\" groups=\"base.group_multi_company\" role=\"img\"/>"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid ""
+"<span class=\"o_form_label\">Format</span>\n"
+"                                        <span class=\"fa fa-lg fa-building-o\" title=\"Values set here are company-specific.\" aria-label=\"Values set here are company-specific.\" groups=\"base.group_multi_company\" role=\"img\"/>"
+msgstr ""
+"<span class=\"o_form_label\">Format</span>\n"
+"                                        <span class=\"fa fa-lg fa-building-o\" title=\"Values set here are company-specific.\" aria-label=\"Values set here are company-specific.\" groups=\"base.group_multi_company\" role=\"img\"/>"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid ""
+"<strong>Save</strong> this page and come back here to set up the feature."
+msgstr "قم بـ<strong>حفظ</strong> هذه الصفحة وعُد إلى هنا لإعداد الخاصية."
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Access Rights"
+msgstr "صلاحيات الوصول"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Add fun feedback and motivate your employees"
+msgstr "أضف تغذية رجعية لطيفة وحفز موظفيك"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_google_calendar
+msgid "Allow the users to synchronize their calendar  with Google Calendar"
+msgstr "السماح للمستخدمين بمزامنة التقويم مع تقويم جوجل"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_base_import
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Allow users to import data from CSV/XLS/XLSX/ODS files"
+msgstr "السماح للمستخدمين باستيراد البيانات من ملفات CSV/XLS/XLSX/ODS"
+
+#. module: base_setup
+#: model:ir.model.fields,help:base_setup.field_res_config_settings__group_multi_currency
+msgid "Allows to work in a multi currency environment"
+msgstr "يتيح لك العمل بعدة عملات"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_voip
+msgid "Asterisk (VoIP)"
+msgstr "علامة النجمة (VoIP)"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_google_drive
+msgid "Attach Google documents to any record"
+msgstr "إرفاق مستندات جوجل بأي سجل"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_partner_autocomplete
+msgid "Auto-populate company data"
+msgstr "ملأ بيانات المؤسسة تلقائيًا"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Autocomplete company data (name, logo, address, etc.)"
+msgstr "الإكمال الأوتوماتيكي لبيانات الشركة (الاسم، والشعار، والعنوان، إلخ.)"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Business Documents"
+msgstr "مستندات العمل"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid ""
+"By default, new users get highest access rights for all installed apps."
+msgstr ""
+"افتراضيًا، يحصل المستخدمون الجدد على صلاحيات وصول أعلى بجميع التطبيقات "
+"المثبتة."
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Change Document Template"
+msgstr "تغيير قالب المستند"
+
+#. module: base_setup
+#: code:addons/base_setup/models/res_config_settings.py:100
+#, python-format
+msgid "Choose Your Document Layout"
+msgstr "اختيار مخطط مستندك"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Choose your document's header and footer layout"
+msgstr "اختيار مخطط رأس وتذييل مستندك"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_pad
+msgid "Collaborative Pads"
+msgstr "منصات تعاونية"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Common Contact Book"
+msgstr "سجل جهات الاتصال المشترك"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Companies"
+msgstr "المؤسسات"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__company_id
+msgid "Company"
+msgstr "المؤسسة"
+
+#. module: base_setup
+#: model:ir.model,name:base_setup.model_res_config_settings
+msgid "Config Settings"
+msgstr "ضبط الإعدادات"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid ""
+"Configure company rules to automatically create SO/PO when one of your "
+"company sells/buys to another of your company."
+msgstr ""
+"قم بضبط إعدادات مؤسستك لإنشاء أوامر بيع أو شراء تلقائيًا عندما يقوم أحد "
+"التابعين لمؤسستك بعملية بيع أو شراء لشخص آخر في مؤسستك."
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Create and attach Google Drive documents to any record"
+msgstr "إنشاء وإرفاق مستندات جوجل بأي سجل"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__report_footer
+msgid "Custom Report Footer"
+msgstr "تذييل مخصوص للتقرير"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__user_default_rights
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Default Access Rights"
+msgstr "صلاحيات الوصول الافتراضية"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__external_report_layout_id
+msgid "Document Template"
+msgstr "قالب المستند"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Edit Layout"
+msgstr "تحرير المخطط"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__external_email_server_default
+msgid "External Email Servers"
+msgstr "سيرفرات البريد الإلكتروني الخارجية"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Extract and analyze Odoo data from Google Spreadsheet"
+msgstr "استخراج وتحليل بيانات أودو من جدول بيانات جوجل"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Find free high-resolution images from Unsplash"
+msgstr "إيجاد صور عالية الدقة مجانية على Unsplash"
+
+#. module: base_setup
+#: model:ir.model.fields,help:base_setup.field_res_config_settings__report_footer
+msgid "Footer text displayed at the bottom of all reports."
+msgstr "تذييل النص يعرض في الجزء السفلي من كل التقارير."
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Format"
+msgstr "تنسيق"
+
+#. module: base_setup
+#: model:ir.ui.menu,name:base_setup.menu_config
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Gengo Translations"
+msgstr "تراجم Gengo"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Google Calendar"
+msgstr "تقويم جوجل"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Google Drive"
+msgstr "جوجل درايف"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_google_spreadsheet
+msgid "Google Spreadsheet"
+msgstr "جدول بيانات جوجل"
+
+#. module: base_setup
+#: model:ir.model,name:base_setup.model_ir_http
+msgid "HTTP Routing"
+msgstr "مسار HTTP"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Import & Export"
+msgstr "استيراد وتصدير"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Integrations"
+msgstr "ربط"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Inter Company Flows"
+msgstr "تدفقات ما بين المؤسسات"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_auth_ldap
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "LDAP Authentication"
+msgstr "المصادقة من خلال LDAP"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_inter_company_rules
+msgid "Manage Inter Company"
+msgstr "إدارة المؤسسات المشتركة"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__group_multi_company
+msgid "Manage multiple companies"
+msgstr "إدارة عدة مؤسسات"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Manage multiple legal entities with separate accounting"
+msgstr "إدارة عدة كيانات قانونية بنظام محاسبة منفصل"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__group_multi_currency
+msgid "Multi-Currencies"
+msgstr "عملات متعددة"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Multi-companies"
+msgstr "تعدد الشركات"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "OAuth Authentication"
+msgstr "المصادقة من خلال OAuth"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__paperformat_id
+msgid "Paper format"
+msgstr "تنسيق ورقة"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Preview Document"
+msgstr "معاينة المستند"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Set custom access rights for new users"
+msgstr "وضع صلاحيات وصول مخصصة للمستخدمين الجدد"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Set the paper format of printed documents"
+msgstr "إعداد التنسيق الورقي للمستندات المطبوعة"
+
+#. module: base_setup
+#: model:ir.actions.act_window,name:base_setup.action_general_configuration
+msgid "Settings"
+msgstr "الإعدادات"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__company_share_partner
+msgid "Share partners to all companies"
+msgstr "مشاركة الشركاء لجميع المؤسسات"
+
+#. module: base_setup
+#: model:ir.model.fields,help:base_setup.field_res_config_settings__company_share_partner
+msgid ""
+"Share your partners to all companies defined in your instance.\n"
+" * Checked : Partners are visible for every companies, even if a company is defined on the partner.\n"
+" * Unchecked : Each company can see only its partner (partners where company is defined). Partners not related to a company are visible for all companies."
+msgstr ""
+"قم بمشاركة شركاءك مع كل المؤسسات المعرفة في نموذجك.\n"
+"* محدد: يظهر الشركاء لكل المؤسسات، حتى لو كانت المؤسسة معرفة للشريك.\n"
+"* غير محدد: يُتاح لكل مؤسسة رؤية شريكها فقط (الشركاء المُعرفة لهم المؤسسة). ويظهر الشركاء غير المرتبطين بأي مؤسسة لكل المؤسسات."
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__show_effect
+msgid "Show Effect"
+msgstr "إظهار التأثير"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Synchronize your calendar with Google Calendar"
+msgstr "مزامنة تقويمك مع تقويم جوجل"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Template"
+msgstr "قالب"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_base_gengo
+msgid "Translate Your Website with Gengo"
+msgstr "ترجم موقعك باستخدام Gengo"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Translate your website with Gengo"
+msgstr "ترجم موقعك باستخدام Gengo"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_web_unsplash
+msgid "Unsplash Image Library"
+msgstr "مكتبة صور Unsplash"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Use LDAP credentials to log in"
+msgstr "استخدام بيانات LDAP لتسجيل الدخول"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Use external accounts to log in (Google, Facebook, etc.)"
+msgstr "تسجيل الدخول بحسابات خارجية (جوجل، فيسبوك، إلخ.)"
+
+#. module: base_setup
+#: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_auth_oauth
+msgid "Use external authentication providers (OAuth)"
+msgstr "استخدام مزودي مُصادقة خارجيين (OAuth)"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Use external pads in Odoo Notes"
+msgstr "استخدام منصات خارجية في ملاحظات أودو"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid "Users"
+msgstr "المستخدمون"
+
+#. module: base_setup
+#: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
+msgid ""
+"When populating your address book, Odoo provides a list of matching "
+"companies. When selecting one item, the company data and logo are auto-"
+"filled."
+msgstr ""
+"عند ملأ دليل عنوانينك، توفر لك أودو قائمة بالمؤسسات المتطابقة. عند اختيار "
+"عنصر، تُملأ بيانات ولوجو المؤسسة تلقائيًا."
