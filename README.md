@@ -122,11 +122,10 @@ In order to understand `odoo-bin` options read the following options <a href="ht
 
 <b>Step 5 : Check out the next Video on Odoo Debug Using Visual Studio</b>
 
-<iframe width="560" height="315"
-src="https://youtu.be/giakjsJk8xI" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe> 
+![](https://github.com/akradore/odoo-windows/blob/main/odoo_data/odoo_windows.gif)
+
+Instructions & Tutorial  [Run & Debug Odoo on Windows using Visual Studio ](https://youtu.be/giakjsJk8xI)
+
 
 
 
