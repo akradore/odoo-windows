@@ -117,7 +117,8 @@ In order to understand `odoo-bin` options read the following options <a href="ht
     ```sh   
      Get-Content C:\Users\Laptop\Desktop\odoo_12c\odoo12c\server\odoo.log -Wait
    ```
-    
+- <strong style="color:red">NB: Update and change the path to match location of your odoo downloaded from Git</strong> 
+ 
 - <b>In My video Im using Visual Studio as it great IDE it consumes less resource</b>
 
 <b>Step 5 : Check out the next Video on Odoo Debug Using Visual Studio</b>
